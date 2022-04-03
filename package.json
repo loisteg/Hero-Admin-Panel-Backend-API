@@ -1,13 +1,13 @@
 {
-  "name": "Task-Tracker",
+  "name": "Hero Admin Panel Backend API",
   "version": "1.0.0",
-  "description": "task tracker",
+  "description": "Hero Admin Panel Backend API",
   "main": "server.js",
   "license": "MIT",
   "scripts":{
     "start": "node server.js"
   },
-  "author": "sait ibrahim",
+  "author": "Loisteg",
   "dependencies": {
     "json-server": "^0.17.0"
   }
