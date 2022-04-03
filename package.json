@@ -1,5 +1,5 @@
 {
-  "name": "Hero Admin Panel Backend API",
+  "name": "hap",
   "version": "1.0.0",
   "description": "Hero Admin Panel Backend API",
   "main": "server.js",
